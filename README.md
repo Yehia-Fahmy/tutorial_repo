@@ -4,6 +4,7 @@ just a repo to learn some things
 ## What is git
 
 ## What is a commit
+i think the commit should be like this
 
 ## What are branches
 
