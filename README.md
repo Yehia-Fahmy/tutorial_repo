@@ -4,6 +4,9 @@ just a repo to learn some things
 ## What is git
 Musa removed this section
 
+## What is a commit
+faris is adding new themes
+
 ## What are branches
 
 ## Some work examples
