@@ -1,11 +1,11 @@
 # tutorial_repo
 just a repo to learn some things
 
-# What is git
+## What is git
 
-# What is a commit
+## What is a commit
 
-# What are branches
+## What are branches
 
-# Some work examples
+## Some work examples
 
